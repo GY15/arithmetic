@@ -1,9 +1,12 @@
-package Exam;
+package internship;
 
 import java.util.Scanner;
 
 public class AddOr {
     public static void main(String[] args){
+        Integer  fff = 1;
+        int j =1;
+        System.out.println(fff.equals(j));
         Scanner scanner = new Scanner(System.in);
         int x = scanner.nextInt();
         int k = scanner.nextInt();

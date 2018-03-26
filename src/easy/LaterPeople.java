@@ -18,6 +18,5 @@ public class LaterPeople {
             System.out.println(except>0?"NO":"YES");
 
         }
-
     }
 }

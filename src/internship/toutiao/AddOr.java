@@ -1,4 +1,4 @@
-package internship;
+package internship.toutiao;
 
 import java.util.Scanner;
 

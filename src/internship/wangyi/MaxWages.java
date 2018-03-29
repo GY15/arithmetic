@@ -11,22 +11,30 @@ public class MaxWages{
         wages.add(new Wage(120,100));
         wages.add(new Wage(120,120));
         wages.add(new Wage(110,80));
-        Collections.sort(wages, new Comparator<Wage>() {
-            @Override
-            public int compare(Wage o1, Wage o2) {
-                if (o1.getAbility()<o2.ability){
-                    return -1;
-                }else if (o1.getAbility()==o2.getAbility()){
-                    if(o1.wage < o2.wage){
-                        return 1;
-                    }else{
-                        return -1;
-                    }
-                }else {
-                    return 1;
-                }
+        Comparator<Wage> comparator = (w1,w2) -> {
+            if(w1.getAbility()==w2.getAbility()){
+                return w2.getWage()-w1.getWage();
             }
-        });
+            return w1.ability-w2.ability;
+        };
+        wages.sort(comparator);
+//        Collections.sort(wages,comparator);
+//        Collections.sort(wages, new Comparator<Wage>() {
+//            @Override
+//            public int compare(Wage o1, Wage o2) {
+//                if (o1.getAbility()<o2.ability){
+//                    return -1;
+//                }else if (o1.getAbility()==o2.getAbility()){
+//                    if(o1.wage < o2.wage){
+//                        return 1;
+//                    }else{
+//                        return -1;
+//                    }
+//                }else {
+//                    return 1;
+//                }
+//            }
+//        });
         int min = wages.get(0).wage;
         for (int i = 1;i < wages.size();i++){
             if (wages.get(i).wage<=min){

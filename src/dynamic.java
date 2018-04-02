@@ -15,19 +15,49 @@ public class dynamic {
         }
         in.close();
     }
-
     private static int equal(int[] arr) {
-        Map<Integer,Integer> nums = new HashMap<>();
-        nums.put(5,0);
-        nums.put(3,0);
-        nums.put(1,0);
         Arrays.sort(arr);
-        int temp = arr[arr.length-1];
-        add(nums,arr,0,temp);
-        add(nums,arr,0,temp+1);
-        add(nums,arr,0,temp+3);
-        return min;
+        List<Integer> list = new ArrayList<>();
+       list.add(getSum(arr,arr[0]));
+       list.add(getSum(arr,arr[0]-1));
+       list.add(getSum(arr,arr[0]-2));
+       list.add(getSum(arr,arr[0]-3));
+       list.add(getSum(arr,arr[0]-4));
+       Collections.sort(list);
+       return list.get(0);
     }
+    private static int getSum(int arr[],int minNum){
+        int sum = 0;
+        int index = arr.length-1;
+        while (true) {
+            if (index<0){
+                break;
+            }
+            int num = arr[index];
+            int n = (num - minNum)/5;
+            int m = (num-minNum)%5;
+            if (m==4||m==2){
+                sum+=2;
+            }else if (m==3||m==1){
+                sum+=1;
+            }
+            sum = sum+n;
+            index--;
+        }
+        return sum;
+    }
+//    private static int equal(int[] arr) {
+//        Map<Integer,Integer> nums = new HashMap<>();
+//        nums.put(5,0);
+//        nums.put(3,0);
+//        nums.put(1,0);
+//        Arrays.sort(arr);
+//        int temp = arr[arr.length-1];
+//        add(nums,arr,0,temp);
+//        add(nums,arr,0,temp+1);
+//        add(nums,arr,0,temp+3);
+//        return min;
+//    }
     static int min = 10000000;
     private static void add(Map<Integer,Integer> maps, int[] arr, int index,int target){
         Map<Integer,Integer> temp = new HashMap<>(maps);

@@ -4,13 +4,14 @@ import java.util.*;
 
 public class MaxWages{
     public static void main(String[] args) {
-        int n = 3;
-        int m = 3;
+        Scanner scanner = new Scanner(System.in);
+        int n = scanner.nextInt();
+        int m = scanner.nextInt();
+
         List<Wage> wages = new ArrayList<>();
-        wages.add(new Wage(1,10));
-        wages.add(new Wage(120,100));
-        wages.add(new Wage(120,120));
-        wages.add(new Wage(110,80));
+      for (int i = 0; i < n;i++) {
+          wages.add(new Wage(scanner.nextInt(), scanner.nextInt()));
+      }
         Comparator<Wage> comparator = (w1,w2) -> {
             if(w1.getAbility()==w2.getAbility()){
                 return w2.getWage()-w1.getWage();
@@ -45,22 +46,21 @@ public class MaxWages{
             }
         }
         for (int i = 0; i< m;i++){
-            Scanner scanner = new Scanner(System.in);
             int myAbility = scanner.nextInt();
-            for (int f = 0; f < wages.size()-1;f++){
+            for (int f = 0; f < wages.size();f++){
                 if(wages.get(f).ability > myAbility){
                     if(f==0) {
                         System.out.println(0);
                     }else {
                         System.out.println(wages.get(f - 1).wage);
                     }
+                    break;
                 }else{
                     if(f==wages.size()-1){
                         System.out.println(wages.get(f).wage);
                     }
                 }
             }
-            System.out.println();
         }
     }
 

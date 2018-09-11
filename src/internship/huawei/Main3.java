@@ -47,7 +47,7 @@ public class Main3 {
                 } else if (res.toString().substring(0, 10).equals("1111111011")) {
                     type = "SiteLocal";
                 } else {
-                    if (res.toString().charAt(128) == '1' && res.toString().replaceAll("1", "").length() == 127) {
+                    if (res.toString().charAt(127) == '1' && res.toString().replaceAll("1", "").length() == 127) {
                         type = "Loopback";
                     } else {
                         type = "GlobalUnicast";
@@ -79,7 +79,7 @@ public class Main3 {
             case '7':
                 return "0111";
             case '8':
-                return "100";
+                return "1000";
             case '9':
                 return "1001";
             case 'A':

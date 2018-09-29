@@ -2,23 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed342426-bece-4cca-acb1-56b523455639" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PAT/BigDem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/ConvertList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/DigitalBlack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/IDcard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/InsertOrMerge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/Mooncake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/Population.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/ScientificCounting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/Translate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/advance/BikeManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/advance/BikeManagement2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/advance/RoadsToRome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/advance/SupplyChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PAT/RationCalculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PAT/advance/AcuteStroke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PAT/advance/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PAT/advance/CarsOnCampus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PAT/advance/ConsecutiveFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PAT/advance/DeduplicationList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PAT/advance/ForwardsOnWeibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PAT/advance/InsertOrHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PAT/advance/LargestGeneration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PAT/BigDemical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PAT/InsertOrMerge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PAT/InsertOrMerge.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,20 +61,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="BikeManagement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PAT/advance/BikeManagement.java">
+      <file leaf-file-name="BinarySearchTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PAT/advance/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2394">
-              <caret line="128" column="39" selection-start-line="128" selection-start-column="39" selection-end-line="128" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BikeManagement2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PAT/advance/BikeManagement2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+            <state relative-caret-position="372">
+              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,55 +73,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RoadsToRome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PAT/advance/RoadsToRome.java">
+      <file leaf-file-name="ForwardsOnWeibo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PAT/advance/ForwardsOnWeibo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SupplyChain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PAT/advance/SupplyChain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RationCalculate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PAT/RationCalculate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+            <state relative-caret-position="391">
+              <caret line="39" column="42" selection-end-line="66" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/PAT/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="26" column="32" selection-end-line="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InsertOrMerge.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PAT/InsertOrMerge.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#2007#2008#0" expanded="true" />
+                <element signature="e#2056#2057#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -171,7 +115,10 @@
       <find>，</find>
       <find>`</find>
       <find>agencys</find>
+      <find>local += dfs(cores,</find>
+      <find>PriorityQueue</find>
       <find>format</find>
+      <find>InsertOrMerge.</find>
     </findStrings>
     <replaceStrings>
       <replace>calculateChild</replace>
@@ -181,6 +128,7 @@
       <replace>num</replace>
       <replace>nums</replace>
       <replace>,</replace>
+      <replace>List</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -189,14 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/Solution.java" />
-        <option value="$PROJECT_DIR$/src/Exam/magicWeight.java" />
-        <option value="$PROJECT_DIR$/src/Exam/AddOr.java" />
-        <option value="$PROJECT_DIR$/src/Exam/Solution.java" />
-        <option value="$PROJECT_DIR$/src/Exam/Toutiao.java" />
-        <option value="$PROJECT_DIR$/src/Exam/Main2.java" />
-        <option value="$PROJECT_DIR$/src/Exam/Main.java" />
-        <option value="$PROJECT_DIR$/src/Exam/Main3.java" />
         <option value="$PROJECT_DIR$/src/Exam/Main4.java" />
         <option value="$PROJECT_DIR$/src/internship/Main4.java" />
         <option value="$PROJECT_DIR$/src/Exam/Exam.java" />
@@ -238,8 +178,16 @@
         <option value="$PROJECT_DIR$/src/PAT/advance/RoadsToRome.java" />
         <option value="$PROJECT_DIR$/src/PAT/advance/SupplyChain.java" />
         <option value="$PROJECT_DIR$/src/PAT/RationCalculate.java" />
-        <option value="$PROJECT_DIR$/src/PAT/InsertOrMerge.java" />
         <option value="$PROJECT_DIR$/src/PAT/Main.java" />
+        <option value="$PROJECT_DIR$/src/PAT/advance/AcuteStroke.java" />
+        <option value="$PROJECT_DIR$/src/PAT/advance/LargestGeneration.java" />
+        <option value="$PROJECT_DIR$/src/PAT/advance/CarsOnCampus.java" />
+        <option value="$PROJECT_DIR$/src/PAT/advance/ConsecutiveFactors.java" />
+        <option value="$PROJECT_DIR$/src/PAT/advance/DeduplicationList.java" />
+        <option value="$PROJECT_DIR$/src/PAT/InsertOrMerge.java" />
+        <option value="$PROJECT_DIR$/src/PAT/advance/InsertOrHeap.java" />
+        <option value="$PROJECT_DIR$/src/PAT/advance/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/PAT/advance/ForwardsOnWeibo.java" />
       </list>
     </option>
   </component>
@@ -275,8 +223,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -296,10 +242,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="PAT" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PAT" type="462c0819:PsiDirectoryNode" />
+              <item name="advance" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -331,9 +286,53 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.ForwardsOnWeibo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PAT.advance.BinarySearchTree" />
+      <module name="hackerrank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PAT.advance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DeduplicationList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PAT.advance.DeduplicationList" />
+      <module name="hackerrank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PAT.advance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ForwardsOnWeibo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PAT.advance.ForwardsOnWeibo" />
+      <module name="hackerrank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PAT.advance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="InsertOrHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PAT.advance.InsertOrHeap" />
+      <module name="hackerrank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PAT.advance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="InsertOrMerge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PAT.InsertOrMerge" />
@@ -342,50 +341,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="PAT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PAT.Main" />
-      <module name="hackerrank" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PAT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="RationCalculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PAT.RationCalculate" />
-      <module name="hackerrank" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PAT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="RoadsToRome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PAT.advance.RoadsToRome" />
-      <module name="hackerrank" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PAT.advance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="SupplyChain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PAT.advance.SupplyChain" />
-      <module name="hackerrank" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PAT.advance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -502,19 +457,19 @@
       <envs />
     </configuration>
     <list>
-      <item itemvalue="Application.RationCalculate" />
-      <item itemvalue="Application.RoadsToRome" />
-      <item itemvalue="Application.SupplyChain" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.DeduplicationList" />
       <item itemvalue="Application.InsertOrMerge" />
+      <item itemvalue="Application.InsertOrHeap" />
+      <item itemvalue="Application.BinarySearchTree" />
+      <item itemvalue="Application.ForwardsOnWeibo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ForwardsOnWeibo" />
+        <item itemvalue="Application.BinarySearchTree" />
+        <item itemvalue="Application.InsertOrHeap" />
         <item itemvalue="Application.InsertOrMerge" />
-        <item itemvalue="Application.RationCalculate" />
-        <item itemvalue="Application.SupplyChain" />
-        <item itemvalue="Application.RoadsToRome" />
+        <item itemvalue="Application.DeduplicationList" />
       </list>
     </recent_temporary>
   </component>
@@ -606,7 +561,8 @@
       <workItem from="1537251994590" duration="5775000" />
       <workItem from="1537700782402" duration="47081000" />
       <workItem from="1537884500916" duration="1327000" />
-      <workItem from="1537886020419" duration="12443000" />
+      <workItem from="1537886020419" duration="43997000" />
+      <workItem from="1538136984781" duration="16421000" />
     </task>
     <task id="LOCAL-00001" summary="完成2017年今日头条笔试题">
       <created>1521879163817</created>
@@ -706,11 +662,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536633865803</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Pat编程练习">
+      <created>1537951672079</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1537951672079</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="322778000" />
+    <option name="totallyTimeSpent" value="370753000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -723,7 +686,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32791728" />
@@ -735,12 +697,12 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37075332" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29246676" />
       <window_info anchor="right" id="Mongo Explorer" order="6" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32902467" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49888143" visible="true" weight="0.15214477" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49888143" visible="true" weight="0.15214477" />
       <window_info anchor="bottom" id="Statistic" order="11" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -780,7 +742,8 @@
     <MESSAGE value="错误的理解了题意" />
     <MESSAGE value="搞不懂bug出在哪里" />
     <MESSAGE value="完成华为的三道笔试题" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成华为的三道笔试题" />
+    <MESSAGE value="Pat编程练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pat编程练习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1020,15 +983,69 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/PAT/InsertOrMerge.java</url>
-          <line>71</line>
+          <line>70</line>
           <properties />
           <option name="timeStamp" value="157" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/PAT/InsertOrMerge.java</url>
-          <line>66</line>
+          <line>65</line>
           <properties />
           <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PAT/advance/AcuteStroke.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PAT/advance/LargestGeneration.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PAT/advance/CarsOnCampus.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PAT/advance/CarsOnCampus.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PAT/advance/CarsOnCampus.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PAT/advance/ConsecutiveFactors.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PAT/InsertOrMerge.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PAT/advance/ForwardsOnWeibo.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PAT/advance/ForwardsOnWeibo.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="190" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/sort/InsertionSort.java</url>
@@ -1039,7 +1056,7 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="159" />
+      <option name="time" value="193" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1047,64 +1064,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/MagicSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/GrowTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/QueueAndStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-62">
-          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
-          <folding>
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="657" selection-start-line="657" selection-end-line="657" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/internship/Exam.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/BigDecimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/LaterPeople.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/PaiLie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1315,6 +1274,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="27" column="9" selection-start-line="21" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1332,16 +1294,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PAT/ConvertList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1405,18 +1357,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PAT/RationCalculate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PAT/InsertOrMerge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+        <state relative-caret-position="-152">
+          <caret line="76" column="52" lean-forward="true" selection-start-line="76" selection-start-column="52" selection-end-line="76" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1425,10 +1367,105 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PAT/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="26" column="32" selection-end-line="31" />
+        <state relative-caret-position="456">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PAT/advance/AcuteStroke.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PAT/advance/LargestGeneration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PAT/advance/ConsecutiveFactors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PAT/advance/CarsOnCampus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1957">
+          <caret line="105" column="1" selection-start-line="105" selection-start-column="1" selection-end-line="105" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PAT/advance/DeduplicationList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PAT/InsertOrMerge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PAT/ConvertList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PAT/advance/InsertOrHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PAT/advance/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PAT/advance/ForwardsOnWeibo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="39" column="42" selection-end-line="66" />
+          <folding>
+            <element signature="e#2007#2008#0" expanded="true" />
+            <element signature="e#2056#2057#0" expanded="true" />
           </folding>
         </state>
       </provider>

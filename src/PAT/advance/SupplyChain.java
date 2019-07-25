@@ -8,6 +8,7 @@ public class SupplyChain {
         int memberNum = scanner.nextInt();
         double P = scanner.nextDouble();
         double rate = scanner.nextDouble();
+
         int[] num= new int[memberNum];
         for (int i = 0; i < memberNum;i++){
             num[i] = scanner.nextInt();

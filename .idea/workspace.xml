@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed342426-bece-4cca-acb1-56b523455639" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PAT/RationCalculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/advance/AcuteStroke.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/advance/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/advance/CarsOnCampus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/advance/ConsecutiveFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/advance/DeduplicationList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/advance/ForwardsOnWeibo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/advance/InsertOrHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/advance/LargestGeneration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PAT/advance/AdvanceSupplyChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PAT/advance/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PAT/advance/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PAT/InsertOrMerge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PAT/InsertOrMerge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PAT/advance/SupplyChain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PAT/advance/SupplyChain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,11 +55,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="BinarySearchTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PAT/advance/BinarySearchTree.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PAT/advance/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+            <state>
+              <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashTable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PAT/advance/HashTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="40" column="29" selection-end-line="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,15 +76,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ForwardsOnWeibo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/PAT/advance/ForwardsOnWeibo.java">
+      <file leaf-file-name="SupplyChain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PAT/advance/SupplyChain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="39" column="42" selection-end-line="66" />
-              <folding>
-                <element signature="e#2007#2008#0" expanded="true" />
-                <element signature="e#2056#2057#0" expanded="true" />
-              </folding>
+            <state>
+              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdvanceSupplyChain.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PAT/advance/AdvanceSupplyChain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -137,9 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Exam/Main4.java" />
-        <option value="$PROJECT_DIR$/src/internship/Main4.java" />
-        <option value="$PROJECT_DIR$/src/Exam/Exam.java" />
         <option value="$PROJECT_DIR$/src/internship/Exam.java" />
         <option value="$PROJECT_DIR$/src/test/LaterPeople.java" />
         <option value="$PROJECT_DIR$/src/sort/SortedName.java" />
@@ -176,7 +181,6 @@
         <option value="$PROJECT_DIR$/src/PAT/advance/BikeManagement.java" />
         <option value="$PROJECT_DIR$/src/PAT/advance/BikeManagement2.java" />
         <option value="$PROJECT_DIR$/src/PAT/advance/RoadsToRome.java" />
-        <option value="$PROJECT_DIR$/src/PAT/advance/SupplyChain.java" />
         <option value="$PROJECT_DIR$/src/PAT/RationCalculate.java" />
         <option value="$PROJECT_DIR$/src/PAT/Main.java" />
         <option value="$PROJECT_DIR$/src/PAT/advance/AcuteStroke.java" />
@@ -188,6 +192,10 @@
         <option value="$PROJECT_DIR$/src/PAT/advance/InsertOrHeap.java" />
         <option value="$PROJECT_DIR$/src/PAT/advance/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/PAT/advance/ForwardsOnWeibo.java" />
+        <option value="$PROJECT_DIR$/src/PAT/advance/Main.java" />
+        <option value="$PROJECT_DIR$/src/PAT/advance/HashTable.java" />
+        <option value="$PROJECT_DIR$/src/PAT/advance/SupplyChain.java" />
+        <option value="$PROJECT_DIR$/src/PAT/advance/AdvanceSupplyChain.java" />
       </list>
     </option>
   </component>
@@ -223,7 +231,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,19 +261,19 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/java/hackerrank/src/medium/BitWiseAnd.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/NewTicTacToe" />
+    <property name="last_opened_file_path" value="E:/performance" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -286,23 +294,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ForwardsOnWeibo">
+  <component name="RunManager" selected="Application.SupplyChain">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PAT.advance.BinarySearchTree" />
-      <module name="hackerrank" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PAT.advance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="DeduplicationList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PAT.advance.DeduplicationList" />
       <module name="hackerrank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -323,8 +320,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="InsertOrHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PAT.advance.InsertOrHeap" />
+    <configuration name="HashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PAT.advance.HashTable" />
       <module name="hackerrank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -334,13 +331,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="InsertOrMerge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PAT.InsertOrMerge" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PAT.advance.Main" />
       <module name="hackerrank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PAT.*" />
+          <option name="PATTERN" value="PAT.advance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SupplyChain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PAT.advance.SupplyChain" />
+      <module name="hackerrank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PAT.advance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -457,19 +465,19 @@
       <envs />
     </configuration>
     <list>
-      <item itemvalue="Application.DeduplicationList" />
-      <item itemvalue="Application.InsertOrMerge" />
-      <item itemvalue="Application.InsertOrHeap" />
       <item itemvalue="Application.BinarySearchTree" />
       <item itemvalue="Application.ForwardsOnWeibo" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.HashTable" />
+      <item itemvalue="Application.SupplyChain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SupplyChain" />
+        <item itemvalue="Application.HashTable" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ForwardsOnWeibo" />
         <item itemvalue="Application.BinarySearchTree" />
-        <item itemvalue="Application.InsertOrHeap" />
-        <item itemvalue="Application.InsertOrMerge" />
-        <item itemvalue="Application.DeduplicationList" />
       </list>
     </recent_temporary>
   </component>
@@ -562,7 +570,12 @@
       <workItem from="1537700782402" duration="47081000" />
       <workItem from="1537884500916" duration="1327000" />
       <workItem from="1537886020419" duration="43997000" />
-      <workItem from="1538136984781" duration="16421000" />
+      <workItem from="1538136984781" duration="17845000" />
+      <workItem from="1538373829777" duration="430000" />
+      <workItem from="1538541749788" duration="1924000" />
+      <workItem from="1538893747814" duration="1672000" />
+      <workItem from="1539071042779" duration="198000" />
+      <workItem from="1552573277658" duration="229000" />
     </task>
     <task id="LOCAL-00001" summary="完成2017年今日头条笔试题">
       <created>1521879163817</created>
@@ -669,11 +682,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537951672079</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Pat编程练习">
+      <created>1538211289620</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1538211289621</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="370753000" />
+    <option name="totallyTimeSpent" value="376630000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -686,10 +706,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32791728" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32348597" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info id="Image Layers" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
@@ -697,12 +717,12 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29246676" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29246676" />
       <window_info anchor="right" id="Mongo Explorer" order="6" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32902467" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49888143" visible="true" weight="0.15214477" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49888143" visible="true" weight="0.2808311" />
       <window_info anchor="bottom" id="Statistic" order="11" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -711,6 +731,7 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="6" sideWeight="0.50111854" side_tool="true" weight="0.25201073" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38404727" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32348597" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Analysis" order="13" />
@@ -1047,6 +1068,12 @@
           <properties />
           <option name="timeStamp" value="190" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PAT/advance/Main.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/sort/InsertionSort.java</url>
           <line>87</line>
@@ -1056,7 +1083,7 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="193" />
+      <option name="time" value="195" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1064,30 +1091,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/medium/PaiLie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/internship/toutiao/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/internship/toutiao/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/internship/toutiao/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1274,9 +1277,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="27" column="9" selection-start-line="21" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1284,9 +1284,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1335,9 +1332,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1345,13 +1339,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PAT/advance/SupplyChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
@@ -1369,9 +1356,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1413,9 +1397,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1443,9 +1424,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="912">
           <caret line="48" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1453,20 +1431,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
           <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PAT/advance/ForwardsOnWeibo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#2007#2008#0" expanded="true" />
+            <element signature="e#2056#2057#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PAT/advance/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PAT/advance/HashTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="40" column="29" selection-end-line="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PAT/advance/ForwardsOnWeibo.java">
+    <entry file="file://$PROJECT_DIR$/src/PAT/advance/SupplyChain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="39" column="42" selection-end-line="66" />
-          <folding>
-            <element signature="e#2007#2008#0" expanded="true" />
-            <element signature="e#2056#2057#0" expanded="true" />
-          </folding>
+        <state>
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PAT/advance/AdvanceSupplyChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>

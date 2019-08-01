@@ -1,10 +1,29 @@
 package leetcode.middle.list;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class PartitionList {
     public static class ListNode {
        int val;
        ListNode next;
        ListNode(int x) { val = x; }
+    }
+    public boolean hasCycle(ListNode head) {
+            if(head==null){
+                return false;
+            }
+            List<Integer> list = new ArrayList();
+            list.add(head.val);
+            while(head.next!=null){
+                head = head.next;
+                if(list.contains(head.val)){
+                    return true;
+                }else
+                    list.add(head.val);
+            }
+            return false;
+
     }
 
     public static void main(String[] args) {

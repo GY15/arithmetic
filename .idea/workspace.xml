@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed342426-bece-4cca-acb1-56b523455639" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/WordBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/list/ReorderList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/list/InsertionSortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/list/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/sort/sortList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/middle/list/PartitionList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/middle/list/PartitionList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,11 +54,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PalindromePartitioning.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/middle/string/PalindromePartitioning.java">
+      <file leaf-file-name="sortList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/middle/sort/sortList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="76">
+              <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,50 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReorderList.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/middle/list/ReorderList.java">
+      <file leaf-file-name="RotateList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/middle/list/RotateList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="10" selection-start-line="10" selection-end-line="35" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GasStation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/middle/list/GasStation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Candy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/hard/Candy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="64" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingleNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/easy/SingleNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CopyListwithRandomPointer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/middle/list/CopyListwithRandomPointer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="29" selection-start-column="29" selection-end-column="29" />
+            <state relative-caret-position="-3">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -127,7 +88,6 @@
     <findStrings>
       <find>calculate</find>
       <find>path</find>
-      <find>mergeSort</find>
       <find>calInversion</find>
       <find>inversion</find>
       <find>temp</find>
@@ -147,6 +107,9 @@
       <find>PriorityQueue</find>
       <find>format</find>
       <find>InsertOrMerge.</find>
+      <find> </find>
+      <find>getMid</find>
+      <find>mergeSort</find>
     </findStrings>
     <replaceStrings>
       <replace>calculateChild</replace>
@@ -157,6 +120,7 @@
       <replace>nums</replace>
       <replace>,</replace>
       <replace>List</replace>
+      <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -165,10 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/internship/huawei/Main2.java" />
-        <option value="$PROJECT_DIR$/src/internship/huawei/Dice.java" />
-        <option value="$PROJECT_DIR$/src/internship/huawei/Dice2.java" />
-        <option value="$PROJECT_DIR$/src/internship/aiqiyi/Main.java" />
         <option value="$PROJECT_DIR$/src/internship/wangyi/dff.java" />
         <option value="$PROJECT_DIR$/src/internship/meituan.java" />
         <option value="$PROJECT_DIR$/src/sort/Sort.java" />
@@ -216,6 +176,10 @@
         <option value="$PROJECT_DIR$/src/leetcode/hard/WordBreak.java" />
         <option value="$PROJECT_DIR$/src/leetcode/middle/list/PartitionList.java" />
         <option value="$PROJECT_DIR$/src/leetcode/middle/list/ReorderList.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/middle/list/PreorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/middle/list/InsertionSortList.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/middle/list/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/middle/sort/sortList.java" />
       </list>
     </option>
   </component>
@@ -292,6 +256,14 @@
               <item name="middle" type="462c0819:PsiDirectoryNode" />
               <item name="list" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="middle" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -334,7 +306,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReorderList">
+  <component name="RunManager" selected="Application.sortList">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -349,24 +321,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="GasStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.middle.list.GasStation" />
+    <configuration name="InsertionSortList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.middle.list.InsertionSortList" />
       <module name="hackerrank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.middle.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="PalindromePartitioning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.middle.string.PalindromePartitioning" />
-      <module name="hackerrank" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.middle.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -395,6 +356,17 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="sortList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.middle.sort.sortList" />
+      <module name="hackerrank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.middle.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="">
       <option name="arquillianRunConfiguration">
@@ -505,19 +477,19 @@
       <envs />
     </configuration>
     <list>
-      <item itemvalue="Application.PalindromePartitioning" />
-      <item itemvalue="Application.GasStation" />
       <item itemvalue="Application.Candy" />
       <item itemvalue="Application.WordBreak" />
       <item itemvalue="Application.ReorderList" />
+      <item itemvalue="Application.InsertionSortList" />
+      <item itemvalue="Application.sortList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sortList" />
+        <item itemvalue="Application.InsertionSortList" />
         <item itemvalue="Application.ReorderList" />
         <item itemvalue="Application.WordBreak" />
         <item itemvalue="Application.Candy" />
-        <item itemvalue="Application.GasStation" />
-        <item itemvalue="Application.PalindromePartitioning" />
       </list>
     </recent_temporary>
   </component>
@@ -626,7 +598,7 @@
       <workItem from="1564366367735" duration="15833000" />
       <workItem from="1564454019084" duration="1344000" />
       <workItem from="1564577323796" duration="1874000" />
-      <workItem from="1564667538560" duration="1919000" />
+      <workItem from="1564667538560" duration="9198000" />
     </task>
     <task id="LOCAL-00001" summary="完成2017年今日头条笔试题">
       <created>1521879163817</created>
@@ -782,11 +754,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564379284472</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="8.1">
+      <created>1564669535805</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1564669535805</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="424607000" />
+    <option name="totallyTimeSpent" value="431886000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -862,7 +841,8 @@
     <MESSAGE value="add leetcode 1-130" />
     <MESSAGE value="7.27" />
     <MESSAGE value="7.29" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.29" />
+    <MESSAGE value="8.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1244,6 +1224,36 @@
           <properties />
           <option name="timeStamp" value="222" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/middle/list/InsertionSortList.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/middle/list/InsertionSortList.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/middle/list/RotateList.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/middle/sort/sortList.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/middle/sort/sortList.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/sort/InsertionSort.java</url>
           <line>87</line>
@@ -1253,7 +1263,7 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="223" />
+      <option name="time" value="229" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1261,54 +1271,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/PAT/Mooncake.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PAT/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="27" column="9" selection-start-line="21" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PAT/Translate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PAT/ScientificCounting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PAT/BigDem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PAT/Population.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PAT/IDcard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
@@ -1573,16 +1535,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/easy/SingleNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/middle/list/CopyListwithRandomPointer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1617,6 +1569,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/list/ReorderList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" selection-start-line="10" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/easy/SingleNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/middle/string/PalindromePartitioning.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -1627,10 +1596,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/list/ReorderList.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/list/PreorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="10" selection-start-line="10" selection-end-line="35" selection-end-column="5" />
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/list/minimumTotal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/list/InsertionSortList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/list/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/list/RotateList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/sort/sortList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

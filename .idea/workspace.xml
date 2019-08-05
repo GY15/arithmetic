@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed342426-bece-4cca-acb1-56b523455639" name="Default" comment="8.4">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/FindMinimuminRotatedSortedArrayII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/maxPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/152. Maximum Product Subarray.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/153. Find Minimum in Rotated Sorted Array.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/154. Find Minimum in Rotated Sorted Array II.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/155. Min Stack.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/160. Intersection of Two Linked Lists.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/template.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/dp/maxProductSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/list/FindMinimuminRotatedSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/list/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/number/EvaluateReverse.java" afterDir="false" />
+    <list default="true" id="ed342426-bece-4cca-acb1-56b523455639" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/162. Find Peak Element.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/164.Maximum Gap.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/165. Compare Version Numbers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/166. Fraction to Recurring Decimal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/arrays/findPeakElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/arrays/maximumGap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/number/FractiontoRecurringDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/string/CompareVersionNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -63,35 +59,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="155. Min Stack.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/155. Min Stack.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="452">
-                <caret line="90" column="6" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="160. Intersection of Two Linked Lists.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/160. Intersection of Two Linked Lists.md">
+      <file leaf-file-name="166. Fraction to Recurring Decimal.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/166. Fraction to Recurring Decimal.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="80">
-                <caret line="4" column="58" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+                <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/middle/list/MinStack.java">
+      <file leaf-file-name="FractiontoRecurringDecimal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/middle/number/FractiontoRecurringDecimal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="34" selection-start-line="3" selection-end-line="34" />
+            <state relative-caret-position="269">
+              <caret line="50" column="5" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="50" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -153,14 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/PAT/advance/BikeManagement2.java" />
-        <option value="$PROJECT_DIR$/src/PAT/advance/RoadsToRome.java" />
-        <option value="$PROJECT_DIR$/src/PAT/RationCalculate.java" />
-        <option value="$PROJECT_DIR$/src/PAT/Main.java" />
-        <option value="$PROJECT_DIR$/src/PAT/advance/AcuteStroke.java" />
-        <option value="$PROJECT_DIR$/src/PAT/advance/LargestGeneration.java" />
-        <option value="$PROJECT_DIR$/src/PAT/advance/CarsOnCampus.java" />
-        <option value="$PROJECT_DIR$/src/PAT/advance/ConsecutiveFactors.java" />
         <option value="$PROJECT_DIR$/src/PAT/advance/DeduplicationList.java" />
         <option value="$PROJECT_DIR$/src/PAT/InsertOrMerge.java" />
         <option value="$PROJECT_DIR$/src/PAT/advance/InsertOrHeap.java" />
@@ -204,6 +183,14 @@
         <option value="$PROJECT_DIR$/src/leetcode/middle/list/MinStack.java" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/155. Min Stack.md" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/160. Intersection of Two Linked Lists.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/162. Find Peak Element.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/middle/arrays/findPeakElement.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/middle/arrays/maximumGap.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/164.Maximum Gap.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/middle/string/CompareVersionNumbers.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/165. Compare Version Numbers.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/middle/number/FractiontoRecurringDecimal.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/166. Fraction to Recurring Decimal.md" />
       </list>
     </option>
   </component>
@@ -280,7 +267,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="middle" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="number" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -291,7 +278,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/java/hackerrank/src/medium/BitWiseAnd.java" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/java/hackerrank/src/leetcode/markdown/165. Compare Version Numbers.md" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="E:/performance" />
@@ -305,6 +292,7 @@
       <recent name="D:\java\hackerrank\src\leetcode\markdown" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode.middle.arrays" />
       <recent name="leetcode.hard" />
       <recent name="internship.wangyi" />
       <recent name="Exam" />
@@ -327,17 +315,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindMinimuminRotatedSortedArrayII">
+  <component name="RunManager" selected="Application.FractiontoRecurringDecimal">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="EvaluateReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.middle.number.EvaluateReverse" />
+    <configuration name="CompareVersionNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.middle.string.CompareVersionNumbers" />
       <module name="hackerrank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.middle.number.*" />
+          <option name="PATTERN" value="leetcode.middle.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -364,27 +352,27 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="maxPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.hard.maxPoints" />
+    <configuration name="FractiontoRecurringDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.middle.number.FractiontoRecurringDecimal" />
       <module name="hackerrank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.hard.*" />
+          <option name="PATTERN" value="leetcode.middle.number.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="maxProductSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.middle.dp.maxProductSubarray" />
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="findPeakElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.middle.arrays.findPeakElement" />
       <module name="hackerrank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.middle.dp.*" />
+          <option name="PATTERN" value="leetcode.middle.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -498,19 +486,19 @@
       <envs />
     </configuration>
     <list>
-      <item itemvalue="Application.maxPoints" />
-      <item itemvalue="Application.EvaluateReverse" />
-      <item itemvalue="Application.maxProductSubarray" />
       <item itemvalue="Application.FindMinimuminRotatedSortedArray" />
       <item itemvalue="Application.FindMinimuminRotatedSortedArrayII" />
+      <item itemvalue="Application.findPeakElement" />
+      <item itemvalue="Application.CompareVersionNumbers" />
+      <item itemvalue="Application.FractiontoRecurringDecimal" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FractiontoRecurringDecimal" />
+        <item itemvalue="Application.CompareVersionNumbers" />
+        <item itemvalue="Application.findPeakElement" />
         <item itemvalue="Application.FindMinimuminRotatedSortedArrayII" />
         <item itemvalue="Application.FindMinimuminRotatedSortedArray" />
-        <item itemvalue="Application.maxProductSubarray" />
-        <item itemvalue="Application.EvaluateReverse" />
-        <item itemvalue="Application.maxPoints" />
       </list>
     </recent_temporary>
   </component>
@@ -626,7 +614,7 @@
       <workItem from="1564885608237" duration="5375000" />
       <workItem from="1564898795771" duration="3309000" />
       <workItem from="1564906438644" duration="1351000" />
-      <workItem from="1564932203627" duration="954000" />
+      <workItem from="1564932203627" duration="12927000" />
     </task>
     <task id="LOCAL-00001" summary="完成2017年今日头条笔试题">
       <created>1521879163817</created>
@@ -796,11 +784,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564804210743</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="8.5">
+      <created>1564976027732</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1564976027732</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="449892000" />
+    <option name="totallyTimeSpent" value="461865000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -830,19 +825,19 @@
       <window_info id="UI Designer" order="5" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.38404727" />
       <window_info anchor="bottom" id="TODO" order="8" weight="0.32791728" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32348597" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info id="Image Layers" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49932975" weight="0.3293944" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.29246676" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.29246676" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32902467" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49888143" visible="true" weight="0.2808311" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49888143" visible="true" weight="0.2808311" />
       <window_info anchor="bottom" id="Analysis" order="15" />
       <window_info anchor="bottom" id="SonarLint" order="0" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="6" sideWeight="0.50111854" side_tool="true" weight="0.25201073" />
       <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.32908848" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32348597" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info id="Nl-Palette" order="2" />
@@ -878,7 +873,8 @@
     <MESSAGE value="7.29" />
     <MESSAGE value="8.1" />
     <MESSAGE value="8.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.3" />
+    <MESSAGE value="8.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1320,6 +1316,24 @@
           <properties />
           <option name="timeStamp" value="239" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/middle/string/CompareVersionNumbers.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/middle/number/FractiontoRecurringDecimal.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/middle/number/FractiontoRecurringDecimal.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/sort/InsertionSort.java</url>
           <line>87</line>
@@ -1329,7 +1343,7 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="240" />
+      <option name="time" value="247" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1337,62 +1351,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/PAT/advance/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PAT/advance/ForwardsOnWeibo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="e#2007#2008#0" expanded="true" />
-            <element signature="e#2056#2057#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PAT/advance/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PAT/advance/HashTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="40" column="29" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PAT/advance/SupplyChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PAT/advance/AdvanceSupplyChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/number/addTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/easy/climbStairs.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1715,11 +1673,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/162. Find Peak Element.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-47">
+            <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/arrays/findPeakElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/arrays/maximumGap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/160. Intersection of Two Linked Lists.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="80">
+          <first_editor relative-caret-position="-447">
             <caret line="4" column="58" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/string/CompareVersionNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/165. Compare Version Numbers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="940">
+            <caret line="65" selection-start-line="65" selection-end-line="65" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/164.Maximum Gap.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="820">
+            <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/number/FractiontoRecurringDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/166. Fraction to Recurring Decimal.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="80">
+            <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
           </first_editor>
           <second_editor />
         </state>

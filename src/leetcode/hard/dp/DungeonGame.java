@@ -1,6 +1,7 @@
-package leetcode.hard;
+package leetcode.hard.dp;
 
 public class DungeonGame {
+    //174
     public int calculateMinimumHP(int[][] dungeon) {
         if (dungeon[dungeon.length-1][dungeon[0].length - 1] >= 0){
             dungeon[dungeon.length-1][dungeon[0].length - 1]  = 1;

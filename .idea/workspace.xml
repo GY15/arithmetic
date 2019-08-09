@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed342426-bece-4cca-acb1-56b523455639" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/175. Combine Two Tables.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/176. Second Highest Salary.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/177. Nth Highest Salary.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/178. Rank Scores.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/179. Largest Number.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/number/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/BestTimetoBuyandSellStock5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/180. Consecutive Numbers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/181. Employees Earning More Than Their Managers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/182. Duplicate Emails.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/183. Customers Who Never Order.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/184. Department Highest Salary.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/185. Department Top Three Salaries.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/187. Repeated DNA Sequences.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/188. Best Time to Buy and Sell Stock IV.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/189. Rotate Array.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/190. Reverse Bits.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/string/RepeatedDNA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/hard/DungeonGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/hard/dp/DungeonGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/markdown/179. Largest Number.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/markdown/179. Largest Number.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,47 +65,69 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="template.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/template.md">
+      <file leaf-file-name="188. Best Time to Buy and Sell Stock IV.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/188. Best Time to Buy and Sell Stock IV.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="300">
-                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <first_editor relative-caret-position="1220">
+                <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="177. Nth Highest Salary.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/177. Nth Highest Salary.md">
+      <file leaf-file-name="189. Rotate Array.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/189. Rotate Array.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="121">
-                <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+              <first_editor relative-caret-position="1040">
+                <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LargestNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/middle/number/LargestNumber.java">
+      <file leaf-file-name="190. Reverse Bits.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/190. Reverse Bits.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="196">
+                <caret line="27" selection-start-line="27" selection-end-line="27" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RotateArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/easy/RotateArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="39">
+              <caret line="4" column="52" lean-forward="true" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+              <folding>
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="179. Largest Number.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/179. Largest Number.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="205">
-                <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="BestTimetoBuyandSellStock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/hard/BestTimetoBuyandSellStock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BestTimetoBuyandSellStock5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/hard/BestTimetoBuyandSellStock5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -162,19 +191,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/middle/sort/sortList.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/hard/maxPoints.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/middle/number/EvaluateReverse.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/152. Maximum Product Subarray.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/middle/dp/maxProductSubarray.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/152. Maximum Product Subarray.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/middle/list/FindMinimuminRotatedSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/153. Find Minimum in Rotated Sorted Array.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/153. Find Minimum in Rotated Sorted Array II.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/hard/FindMinimuminRotatedSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/hard/FindMinimuminRotatedSortedArrayII.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/154. Find Minimum in Rotated Sorted Array II.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/middle/list/MinStack.java" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/155. Min Stack.md" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/160. Intersection of Two Linked Lists.md" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/162. Find Peak Element.md" />
@@ -204,7 +220,6 @@
         <option value="$PROJECT_DIR$/src/leetcode/markdown/173. Binary Search Tree Iterator.md" />
         <option value="$PROJECT_DIR$/src/leetcode/hard/DungeonGame.java" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/174. Dungeon Game.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/template.md" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/175. Combine Two Tables.md" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/176. Second Highest Salary.md" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/177. Nth Highest Salary.md" />
@@ -213,6 +228,20 @@
         <option value="$PROJECT_DIR$/src/leetcode/hard/dp/DungeonGame.java" />
         <option value="$PROJECT_DIR$/src/leetcode/middle/number/LargestNumber.java" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/179. Largest Number.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/180. Consecutive Numbers.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/181. Employees Earning More Than Their Managers.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/182. Duplicate Emails.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/183. Customers Who Never Order.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/184. Department Highest Salary.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/185. Department Top Three Salaries.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/187. Repeated DNA Sequences.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/middle/string/RepeatedDNA.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/template.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/hard/BestTimetoBuyandSellStock5.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/188. Best Time to Buy and Sell Stock IV.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/easy/RotateArray.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/189. Rotate Array.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/190. Reverse Bits.md" />
       </list>
     </option>
   </component>
@@ -238,8 +267,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="width" value="659" />
+    <option name="height" value="449" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -250,6 +279,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,6 +303,13 @@
               <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="markdown" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -282,20 +319,11 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="middle" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="middle" type="462c0819:PsiDirectoryNode" />
-              <item name="number" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,21 +338,21 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Markdown" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\java\hackerrank\src\leetcode\markdown" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="leetcode.middle.arrays" />
-      <recent name="leetcode.hard" />
-      <recent name="internship.wangyi" />
-      <recent name="Exam" />
-      <recent name="sort" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java\hackerrank\src\leetcode\markdown" />
       <recent name="D:\java\hackerrank\2019面试" />
       <recent name="D:\java\hackerrank\面试题" />
       <recent name="D:\java\hackerrank\src\leetcode" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode.hard" />
+      <recent name="leetcode.middle.arrays" />
+      <recent name="internship.wangyi" />
+      <recent name="Exam" />
+      <recent name="sort" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\hackerrank\src\leetcode\markdown" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -339,20 +367,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LargestNumber">
+  <component name="RunManager" selected="Application.RotateArray">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="CompareVersionNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.middle.string.CompareVersionNumbers" />
-      <module name="hackerrank" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.middle.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="ExcelColumnTile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.easy.ExcelColumnTile" />
@@ -383,6 +400,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.middle.number.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.RotateArray" />
+      <module name="hackerrank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -510,19 +538,19 @@
       <envs />
     </configuration>
     <list>
-      <item itemvalue="Application.CompareVersionNumbers" />
       <item itemvalue="Application.FractiontoRecurringDecimal" />
       <item itemvalue="Application.sqrt" />
       <item itemvalue="Application.ExcelColumnTile" />
       <item itemvalue="Application.LargestNumber" />
+      <item itemvalue="Application.RotateArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateArray" />
         <item itemvalue="Application.LargestNumber" />
         <item itemvalue="Application.ExcelColumnTile" />
         <item itemvalue="Application.sqrt" />
         <item itemvalue="Application.FractiontoRecurringDecimal" />
-        <item itemvalue="Application.CompareVersionNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -645,7 +673,8 @@
       <workItem from="1565072872770" duration="145000" />
       <workItem from="1565073033780" duration="3079000" />
       <workItem from="1565076708078" duration="4053000" />
-      <workItem from="1565240345530" duration="16034000" />
+      <workItem from="1565240345530" duration="18168000" />
+      <workItem from="1565332403244" duration="7938000" />
     </task>
     <task id="LOCAL-00001" summary="完成2017年今日头条笔试题">
       <created>1521879163817</created>
@@ -864,11 +893,18 @@
       <option name="project" value="LOCAL" />
       <updated>1565249562725</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="8.8">
+      <created>1565276387260</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1565276387260</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="496033000" />
+    <option name="totallyTimeSpent" value="506105000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -896,7 +932,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
-      <window_info active="true" anchor="bottom" id="Debug" order="5" visible="true" weight="0.38404727" />
+      <window_info anchor="bottom" id="Debug" order="5" visible="true" weight="0.39734122" />
       <window_info anchor="bottom" id="TODO" order="8" weight="0.32791728" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.32348597" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
@@ -905,7 +941,7 @@
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49932975" weight="0.3293944" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.29246676" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32496306" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49888143" visible="true" weight="0.2808311" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49888143" visible="true" weight="0.2808311" />
       <window_info anchor="bottom" id="Analysis" order="15" />
       <window_info anchor="bottom" id="SonarLint" order="0" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -1427,6 +1463,12 @@
           <properties />
           <option name="timeStamp" value="253" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/easy/RotateArray.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/sort/InsertionSort.java</url>
           <line>87</line>
@@ -1436,7 +1478,7 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="254" />
+      <option name="time" value="255" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1444,144 +1486,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/arrays/RotateImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/list/FindMinimuminRotatedSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="e#781#782#0" expanded="true" />
-            <element signature="e#868#869#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/153. Find Minimum in Rotated Sorted Array.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/154. Find Minimum in Rotated Sorted Array II.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="40">
-            <caret line="59" column="18" lean-forward="true" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/dp/maxProductSubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/hard/FindMinimuminRotatedSortedArrayII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="37" column="5" selection-start-line="8" selection-start-column="1" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/list/MinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="34" selection-start-line="3" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/155. Min Stack.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="452">
-            <caret line="90" column="6" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/162. Find Peak Element.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-47">
-            <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/arrays/findPeakElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/arrays/maximumGap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/160. Intersection of Two Linked Lists.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-447">
-            <caret line="4" column="58" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/string/CompareVersionNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/165. Compare Version Numbers.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="940">
-            <caret line="65" selection-start-line="65" selection-end-line="65" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/164.Maximum Gap.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="820">
-            <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/middle/number/FractiontoRecurringDecimal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
@@ -1800,16 +1704,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/template.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/175. Combine Two Tables.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1857,6 +1751,121 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/179. Largest Number.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1860">
+            <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/180. Consecutive Numbers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="600">
+            <caret line="30" selection-start-line="30" selection-end-line="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/template.md.md" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/181. Employees Earning More Than Their Managers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="560">
+            <caret line="28" selection-start-line="28" selection-end-line="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/182. Duplicate Emails.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="440">
+            <caret line="22" selection-start-line="22" selection-end-line="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/183. Customers Who Never Order.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="800">
+            <caret line="40" selection-start-line="40" selection-end-line="40" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/184. Department Highest Salary.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="491">
+            <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/187. Repeated DNA Sequences.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="340">
+            <caret line="39" column="54" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="54" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/185. Department Top Three Salaries.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="492">
+            <caret line="55" selection-start-line="55" selection-end-line="55" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/string/RepeatedDNA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="380">
+            <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/hard/BestTimetoBuyandSellStock5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/hard/BestTimetoBuyandSellStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/middle/number/LargestNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -1864,11 +1873,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/179. Largest Number.md">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/easy/RotateArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="4" column="52" lean-forward="true" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+          <folding>
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/188. Best Time to Buy and Sell Stock IV.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="205">
-            <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+          <first_editor relative-caret-position="1220">
+            <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/189. Rotate Array.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1040">
+            <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/190. Reverse Bits.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="196">
+            <caret line="27" selection-start-line="27" selection-end-line="27" />
           </first_editor>
           <second_editor />
         </state>

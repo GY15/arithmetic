@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed342426-bece-4cca-acb1-56b523455639" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/maxSlidingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/239. Sliding Window Maximum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/240. Search a 2D Matrix II.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/241. Different Ways to Add Parentheses.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/242. Valid Anagram.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/257. Binary Tree Paths.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/260. Single Number III.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/264. Ugly Number II.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/arrays/searchMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/number/diffWaysToCompute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/number/nthUglyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/tree/binaryTreePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/IntegerToEnglish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/addOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/268. Missing Number.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/273. Integer to English Words.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/274. H-Index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/279. Perfect Squares.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/282. Expression Add Operators.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/arrays/hIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/number/numSquares.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,6 +24,9 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/hackerrank$Mooncake.ic" NAME="Mooncake Coverage Results" MODIFIED="1536819494953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>PAT.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hackerrank$numSquares.ic" NAME="numSquares Coverage Results" MODIFIED="1567868643405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leetcode.middle.number.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/hackerrank$meituan.coverage" NAME="meituan Coverage Results" MODIFIED="1524228128357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>internship.*</FILTER>
@@ -66,34 +66,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="264. Ugly Number II.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/264. Ugly Number II.md">
+      <file leaf-file-name="hIndex.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/middle/arrays/hIndex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="282. Expression Add Operators.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/282. Expression Add Operators.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="8" selection-start-column="8" selection-end-column="8" />
+              <first_editor relative-caret-position="1255">
+                <caret line="108" column="27" selection-start-line="108" selection-start-column="27" selection-end-line="108" selection-end-column="27" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nthUglyNumber.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/middle/number/nthUglyNumber.java">
+      <file leaf-file-name="addOperators.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/hard/addOperators.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="277">
+              <caret line="87" column="5" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="87" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="binaryTreePaths.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/middle/tree/binaryTreePaths.java">
+      <file leaf-file-name="numSquares.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/middle/number/numSquares.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="28" />
+            <state relative-caret-position="280">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#570#571#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -110,9 +130,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>path</find>
-      <find>calInversion</find>
-      <find>inversion</find>
       <find>temp</find>
       <find>num[1]</find>
       <find>num[2]</find>
@@ -140,6 +157,9 @@
       <find>Palindrome</find>
       <find>&quot;</find>
       <find>int</find>
+      <find>unit</find>
+      <find>&quot; &quot;</find>
+      <find>appe</find>
     </findStrings>
     <replaceStrings>
       <replace>calculateChild</replace>
@@ -162,15 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/213. House Robber II.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/214. Shortest Palindrome.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/hard/shortestPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/middle/arrays/findKthLargest.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/215. Kth Largest Element in an Array.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/middle/number/CombinationSumIII.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/216. Combination Sum III.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/217. Contains Duplicate.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/219. Contains Duplicate II.md" />
         <option value="$PROJECT_DIR$/src/leetcode/middle/arrays/containsNearbyDuplicate.java" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/220. Contains Duplicate III.md" />
         <option value="$PROJECT_DIR$/src/leetcode/middle/dp/MaximalSquare.java" />
@@ -211,8 +222,17 @@
         <option value="$PROJECT_DIR$/src/leetcode/middle/tree/binaryTreePaths.java" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/257. Binary Tree Paths.md" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/260. Single Number III.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/264. Ugly Number II.md" />
         <option value="$PROJECT_DIR$/src/leetcode/middle/number/nthUglyNumber.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/264. Ugly Number II.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/268. Missing Number.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/hard/IntegerToEnglish.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/273. Integer to English Words.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/middle/arrays/hIndex.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/274. H-Index.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/middle/number/numSquares.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/279. Perfect Squares.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/hard/addOperators.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/282. Expression Add Operators.md" />
       </list>
     </option>
   </component>
@@ -235,10 +255,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-5" />
     <option name="width" value="1455" />
-    <option name="height" value="1039" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -278,37 +298,14 @@
               <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="markdown" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="middle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="middle" type="462c0819:PsiDirectoryNode" />
-              <item name="number" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="middle" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -353,23 +350,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.binaryTreePaths">
+  <component name="RunManager" selected="Application.addOperators">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="BasicCalculator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.middle.number.BasicCalculator2" />
+    <configuration name="IntegerToEnglish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.hard.IntegerToEnglish" />
       <module name="hackerrank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.middle.number.*" />
+          <option name="PATTERN" value="leetcode.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="addOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.hard.addOperators" />
+      <module name="hackerrank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="binaryTreePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.middle.tree.binaryTreePaths" />
@@ -378,17 +386,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.middle.tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="diffWaysToCompute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.middle.number.diffWaysToCompute" />
-      <module name="hackerrank" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.middle.number.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -404,24 +401,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="lowestCommonAncestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.middle.tree.lowestCommonAncestor" />
+    <configuration name="hIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.middle.arrays.hIndex" />
       <module name="hackerrank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.middle.tree.*" />
+          <option name="PATTERN" value="leetcode.middle.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="maxSlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.hard.maxSlidingWindow" />
+    <configuration name="numSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.middle.number.numSquares" />
       <module name="hackerrank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.hard.*" />
+          <option name="PATTERN" value="leetcode.middle.number.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -535,19 +532,19 @@
       <envs />
     </configuration>
     <list>
-      <item itemvalue="Application.BasicCalculator2" />
-      <item itemvalue="Application.lowestCommonAncestor" />
-      <item itemvalue="Application.maxSlidingWindow" />
-      <item itemvalue="Application.diffWaysToCompute" />
       <item itemvalue="Application.binaryTreePaths" />
+      <item itemvalue="Application.IntegerToEnglish" />
+      <item itemvalue="Application.hIndex" />
+      <item itemvalue="Application.numSquares" />
+      <item itemvalue="Application.addOperators" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.addOperators" />
+        <item itemvalue="Application.numSquares" />
+        <item itemvalue="Application.hIndex" />
+        <item itemvalue="Application.IntegerToEnglish" />
         <item itemvalue="Application.binaryTreePaths" />
-        <item itemvalue="Application.diffWaysToCompute" />
-        <item itemvalue="Application.maxSlidingWindow" />
-        <item itemvalue="Application.lowestCommonAncestor" />
-        <item itemvalue="Application.BasicCalculator2" />
       </list>
     </recent_temporary>
   </component>
@@ -691,7 +688,9 @@
       <workItem from="1567050422189" duration="1647000" />
       <workItem from="1567588552380" duration="10508000" />
       <workItem from="1567652419931" duration="23389000" />
-      <workItem from="1567835368835" duration="350000" />
+      <workItem from="1567835368835" duration="4612000" />
+      <workItem from="1567842260360" duration="2295000" />
+      <workItem from="1567866861452" duration="6250000" />
     </task>
     <task id="LOCAL-00001" summary="完成2017年今日头条笔试题">
       <created>1521879163817</created>
@@ -959,11 +958,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567005927469</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="9.6">
+      <created>1567835952871</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1567835952871</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="613521000" />
+    <option name="totallyTimeSpent" value="626328000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -975,7 +981,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="0" width="1164" height="831" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -991,28 +997,28 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.4005979" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.3988183" />
       <window_info anchor="bottom" id="TODO" order="8" weight="0.32791728" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32348597" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49932975" weight="0.3293944" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.29246676" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.29098967" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.32908848" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32496306" />
       <window_info id="Persistence" order="8" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49888143" visible="true" weight="0.22061484" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49888143" visible="true" weight="0.16353887" />
       <window_info anchor="bottom" id="Analysis" order="15" />
       <window_info anchor="bottom" id="SonarLint" order="0" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="6" sideWeight="0.50111854" side_tool="true" weight="0.25201073" />
       <window_info anchor="right" id="Properties" order="5" />
       <window_info id="Nl-Palette" order="2" />
-      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.32908848" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32348597" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.32791728" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="2" />
@@ -1025,7 +1031,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 一道简单的题" />
     <MESSAGE value="根剧邮箱筛选后排序" />
     <MESSAGE value="list排序，并排列输出所有的组合，去重" />
     <MESSAGE value="f(n) = n ;最小n ，n为1的个数" />
@@ -1050,7 +1055,8 @@
     <MESSAGE value="8.13" />
     <MESSAGE value="8.17" />
     <MESSAGE value="8.28" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.28" />
+    <MESSAGE value="9.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1732,6 +1738,30 @@
           <properties />
           <option name="timeStamp" value="318" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/hard/IntegerToEnglish.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="319" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/middle/arrays/hIndex.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/hard/addOperators.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="329" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/hard/addOperators.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/sort/InsertionSort.java</url>
           <line>87</line>
@@ -1749,7 +1779,7 @@
           <option name="timeStamp" value="301" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="319" />
+      <option name="time" value="335" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1757,90 +1787,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/216. Combination Sum III.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/217. Contains Duplicate.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="586">
-            <caret line="43" column="4" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/number/CombinationSumIII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/219. Contains Duplicate II.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="380">
-            <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/arrays/containsNearbyDuplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/220. Contains Duplicate III.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="316">
-            <caret line="84" column="188" selection-start-line="84" selection-start-column="188" selection-end-line="84" selection-end-column="188" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/221. Maximal Square.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/dp/MaximalSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/arrays/findKthLargest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/internship/baidu/Solution.java" />
     <entry file="file://$PROJECT_DIR$/src/dynamic/Datatype.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -2187,8 +2133,38 @@
     <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/264. Ugly Number II.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="8" selection-start-column="8" selection-end-column="8" />
+          <first_editor relative-caret-position="378">
+            <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/274. H-Index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="579">
+            <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/273. Integer to English Words.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2140">
+            <caret line="107" column="32" selection-start-line="107" selection-start-column="32" selection-end-line="107" selection-end-column="32" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/268. Missing Number.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="425">
+            <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
@@ -2196,8 +2172,75 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/middle/number/nthUglyNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="101">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/hard/IntegerToEnglish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="93" column="5" selection-start-line="6" selection-start-column="2" selection-end-line="93" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/number/numSquares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/279. Perfect Squares.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="168">
+            <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/arrays/hIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/hard/addOperators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="87" column="5" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="87" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/282. Expression Add Operators.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1255">
+            <caret line="108" column="27" selection-start-line="108" selection-start-column="27" selection-end-line="108" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

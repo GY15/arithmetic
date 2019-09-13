@@ -9,12 +9,12 @@ import java.util.Scanner;
  6 cd
  0 ef
  6 gh
- 4 ij
+ 4 oj
  0 ab
  6 cd
  0 ef
  6 gh
- 0 ij
+ 0 oj
  4 that
  3 be
  0 to

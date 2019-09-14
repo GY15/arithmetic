@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed342426-bece-4cca-acb1-56b523455639" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/RemoveInvalidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/300. Longest Increasing Subsequence.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/301. Remove Invalid Parentheses.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oj/add1001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/BestTimetoBuyandSellStockwithCooldown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/303. Range Sum Query - Immutable.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/304. Range Sum Query 2D - Immutable.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/306. Additive Number.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/307. Range Sum Query - Mutable.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/309. Best Time to Buy and Sell Stock with Cooldown.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/310. Minimum Height Trees.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/arrays/NumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/arrays/NumMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/dp/isAdditiveNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/graph/MinimumHeightTrees.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/markdown/297. Serialize and Deserialize Binary Tree.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/markdown/297. Serialize and Deserialize Binary Tree.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/FullCountingSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/FullCountingSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,37 +71,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RemoveInvalidParentheses.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/hard/RemoveInvalidParentheses.java">
+      <file leaf-file-name="MinimumHeightTrees.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/middle/graph/MinimumHeightTrees.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="62" column="58" lean-forward="true" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="58" />
-              <folding>
-                <element signature="e#3561#3562#0" expanded="true" />
-                <element signature="e#3637#3638#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="163">
+              <caret line="55" column="5" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="55" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="300. Longest Increasing Subsequence.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/300. Longest Increasing Subsequence.md">
+      <file leaf-file-name="310. Minimum Height Trees.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/310. Minimum Height Trees.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="340">
-                <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="301. Remove Invalid Parentheses.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/301. Remove Invalid Parentheses.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="260">
-                <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <first_editor relative-caret-position="66">
+                <caret line="194" column="49" selection-start-line="194" selection-start-column="49" selection-end-line="194" selection-end-column="49" />
               </first_editor>
               <second_editor />
             </state>
@@ -114,7 +103,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>3</find>
       <find>minus(num1,num2)</find>
       <find>emm</find>
       <find>，</find>
@@ -144,6 +132,7 @@
       <find>pathSum.</find>
       <find>int</find>
       <find />
+      <find>],[</find>
     </findStrings>
     <replaceStrings>
       <replace>calculateChild</replace>
@@ -159,6 +148,7 @@
       <replace>&quot;</replace>
       <replace>'</replace>
       <replace>.peek()</replace>
+      <replace>},{</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -167,17 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/226. Invert Binary Tree.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/middle/number/BasicCalculator2.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/227. Basic Calculator II.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/middle/number/summaryRanges.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/228. Summary Ranges .md" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/229. Majority Element II.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/template.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/230. Kth Smallest Element in a BST.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/231. Power of Two.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/232. Implement Queue using Stacks.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/233. Number of Digit One.md" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/234. Palindrome Linked List.md" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/235. Lowest Common Ancestor of a Binary Search Tree.md" />
         <option value="$PROJECT_DIR$/src/leetcode/middle/tree/lowestCommonAncestor.java" />
@@ -218,6 +197,17 @@
         <option value="$PROJECT_DIR$/src/oj/add1001.java" />
         <option value="$PROJECT_DIR$/src/leetcode/hard/RemoveInvalidParentheses.java" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/301. Remove Invalid Parentheses.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/303. Range Sum Query - Immutable.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/middle/arrays/NumMatrix.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/304. Range Sum Query 2D - Immutable.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/middle/dp/isAdditiveNumber.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/306. Additive Number.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/middle/arrays/NumArray.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/307. Range Sum Query - Mutable.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/hard/BestTimetoBuyandSellStockwithCooldown.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/309. Best Time to Buy and Sell Stock with Cooldown.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/middle/graph/MinimumHeightTrees.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/310. Minimum Height Trees.md" />
       </list>
     </option>
   </component>
@@ -284,6 +274,21 @@
               <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
               <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="middle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="middle" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -334,12 +339,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveInvalidParentheses">
+  <component name="RunManager" selected="Application.MinimumHeightTrees">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="MedianFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.hard.MedianFinder" />
+    <configuration name="BestTimetoBuyandSellStockwithCooldown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.hard.BestTimetoBuyandSellStockwithCooldown" />
       <module name="hackerrank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -349,41 +354,41 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RemoveInvalidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.hard.RemoveInvalidParentheses" />
+    <configuration name="MinimumHeightTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.middle.graph.MinimumHeightTrees" />
       <module name="hackerrank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.hard.*" />
+          <option name="PATTERN" value="leetcode.middle.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SerializeandDeserializeBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.hard.SerializeandDeserializeBinaryTree" />
+    <configuration name="NumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.middle.arrays.NumArray" />
       <module name="hackerrank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.hard.*" />
+          <option name="PATTERN" value="leetcode.middle.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="NumMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.middle.arrays.NumMatrix" />
+      <module name="hackerrank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.middle.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="add1001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oj.add1001" />
-      <module name="hackerrank" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oj.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="findKthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.middle.arrays.findKthLargest" />
@@ -396,13 +401,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="gameOfLife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.middle.arrays.gameOfLife" />
+    <configuration name="isAdditiveNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.middle.dp.isAdditiveNumber" />
       <module name="hackerrank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.middle.arrays.*" />
+          <option name="PATTERN" value="leetcode.middle.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -516,19 +521,19 @@
       <envs />
     </configuration>
     <list>
-      <item itemvalue="Application.gameOfLife" />
-      <item itemvalue="Application.MedianFinder" />
-      <item itemvalue="Application.SerializeandDeserializeBinaryTree" />
-      <item itemvalue="Application.add1001" />
-      <item itemvalue="Application.RemoveInvalidParentheses" />
+      <item itemvalue="Application.NumMatrix" />
+      <item itemvalue="Application.isAdditiveNumber" />
+      <item itemvalue="Application.NumArray" />
+      <item itemvalue="Application.BestTimetoBuyandSellStockwithCooldown" />
+      <item itemvalue="Application.MinimumHeightTrees" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveInvalidParentheses" />
-        <item itemvalue="Application.add1001" />
-        <item itemvalue="Application.SerializeandDeserializeBinaryTree" />
-        <item itemvalue="Application.MedianFinder" />
-        <item itemvalue="Application.gameOfLife" />
+        <item itemvalue="Application.MinimumHeightTrees" />
+        <item itemvalue="Application.BestTimetoBuyandSellStockwithCooldown" />
+        <item itemvalue="Application.NumArray" />
+        <item itemvalue="Application.isAdditiveNumber" />
+        <item itemvalue="Application.NumMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -683,7 +688,7 @@
       <workItem from="1568185081707" duration="1484000" />
       <workItem from="1568202262261" duration="12259000" />
       <workItem from="1568259726263" duration="15025000" />
-      <workItem from="1568337583005" duration="5069000" />
+      <workItem from="1568337583005" duration="28549000" />
     </task>
     <task id="LOCAL-00001" summary="完成2017年今日头条笔试题">
       <created>1521879163817</created>
@@ -972,11 +977,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568212991199</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="9.12">
+      <created>1568354507184</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1568354507184</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="671644000" />
+    <option name="totallyTimeSpent" value="695124000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1004,9 +1016,9 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
-      <window_info active="true" anchor="bottom" id="Debug" order="5" visible="true" weight="0.3013294" />
+      <window_info active="true" anchor="bottom" id="Debug" order="5" visible="true" weight="0.4800591" />
       <window_info anchor="bottom" id="TODO" order="8" weight="0.32791728" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32200885" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32053176" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
@@ -1038,7 +1050,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="f(n) = n ;最小n ，n为1的个数" />
     <MESSAGE value="搞定网易两两相交，求最多有多少个同时相交" />
     <MESSAGE value="搞定网易最大工资数" />
     <MESSAGE value="两种按照属性排序的方法" />
@@ -1063,7 +1074,8 @@
     <MESSAGE value="9.6" />
     <MESSAGE value="9.7" />
     <MESSAGE value="9.8-9.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.8-9.11" />
+    <MESSAGE value="9.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1835,6 +1847,72 @@
           <properties />
           <option name="timeStamp" value="392" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/middle/arrays/NumMatrix.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="393" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/middle/arrays/NumMatrix.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/middle/dp/isAdditiveNumber.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/middle/arrays/NumArray.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="398" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/hard/BestTimetoBuyandSellStockwithCooldown.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/hard/BestTimetoBuyandSellStockwithCooldown.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="400" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/middle/graph/MinimumHeightTrees.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="402" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/middle/graph/MinimumHeightTrees.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="408" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/middle/graph/MinimumHeightTrees.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="419" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/middle/graph/MinimumHeightTrees.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/middle/graph/MinimumHeightTrees.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="421" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/sort/InsertionSort.java</url>
           <line>87</line>
@@ -1852,7 +1930,7 @@
           <option name="timeStamp" value="301" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="393" />
+      <option name="time" value="422" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1860,104 +1938,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/230. Kth Smallest Element in a BST.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="600">
-            <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/tree/FlattenBinaryTreetoLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/tree/BinarySearchTreeIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-293">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/234. Palindrome Linked List.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="340">
-            <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/tree/sameTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/235. Lowest Common Ancestor of a Binary Search Tree.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="440">
-            <caret line="22" selection-start-line="22" selection-end-line="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/tree/lowestCommonAncestor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2100">
-          <caret line="110" column="28" selection-start-line="110" selection-start-column="28" selection-end-line="110" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/236. Lowest Common Ancestor of a Binary Tree.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1580">
-            <caret line="79" column="3" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/238. Product of Array Except Self.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/239. Sliding Window Maximum.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="20">
-            <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/arrays/searchMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/hard/maxSlidingWindow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -2310,6 +2290,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/301. Remove Invalid Parentheses.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="260">
+            <caret line="25" selection-start-line="25" selection-end-line="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/300. Longest Increasing Subsequence.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -2331,11 +2321,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/301. Remove Invalid Parentheses.md">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/304. Range Sum Query 2D - Immutable.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="200">
+            <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/dp/isAdditiveNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/309. Best Time to Buy and Sell Stock with Cooldown.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="107">
+            <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/307. Range Sum Query - Mutable.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="661">
+            <caret line="148" column="27" selection-start-line="148" selection-start-column="27" selection-end-line="148" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/arrays/NumArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/arrays/NumMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/303. Range Sum Query - Immutable.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="260">
-            <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/306. Additive Number.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1380">
+            <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/hard/BestTimetoBuyandSellStockwithCooldown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/graph/MinimumHeightTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/310. Minimum Height Trees.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="66">
+            <caret line="194" column="49" selection-start-line="194" selection-start-column="49" selection-end-line="194" selection-end-column="49" />
           </first_editor>
           <second_editor />
         </state>

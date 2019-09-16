@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed342426-bece-4cca-acb1-56b523455639" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/BestTimetoBuyandSellStockwithCooldown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/303. Range Sum Query - Immutable.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/304. Range Sum Query 2D - Immutable.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/306. Additive Number.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/307. Range Sum Query - Mutable.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/309. Best Time to Buy and Sell Stock with Cooldown.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/310. Minimum Height Trees.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/arrays/NumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/arrays/NumMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/dp/isAdditiveNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/graph/MinimumHeightTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/BurstBalloons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/312. Burst Balloons.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown/313. Super Ugly Number.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/number/nthSuperUglyNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -71,23 +64,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MinimumHeightTrees.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/middle/graph/MinimumHeightTrees.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="55" column="5" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="55" selection-end-column="5" />
+      <file leaf-file-name="312. Burst Balloons.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/312. Burst Balloons.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="120">
+                <caret line="21" column="79" selection-start-line="21" selection-start-column="79" selection-end-line="21" selection-end-column="79" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="310. Minimum Height Trees.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/310. Minimum Height Trees.md">
+      <file leaf-file-name="BurstBalloons.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/hard/BurstBalloons.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#96#97#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="313. Super Ugly Number.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/313. Super Ugly Number.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="66">
-                <caret line="194" column="49" selection-start-line="194" selection-start-column="49" selection-end-line="194" selection-end-column="49" />
+              <first_editor relative-caret-position="120">
+                <caret line="15" column="96" selection-start-line="15" selection-start-column="96" selection-end-line="15" selection-end-column="96" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nthSuperUglyNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/middle/number/nthSuperUglyNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="45" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#1363#1364#0" expanded="true" />
+                <element signature="e#1404#1405#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -157,10 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/234. Palindrome Linked List.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/235. Lowest Common Ancestor of a Binary Search Tree.md" />
-        <option value="$PROJECT_DIR$/src/leetcode/middle/tree/lowestCommonAncestor.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown/236. Lowest Common Ancestor of a Binary Tree.md" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/238. Product of Array Except Self.md" />
         <option value="$PROJECT_DIR$/src/leetcode/hard/maxSlidingWindow.java" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/239. Sliding Window Maximum.md" />
@@ -208,6 +229,10 @@
         <option value="$PROJECT_DIR$/src/leetcode/markdown/309. Best Time to Buy and Sell Stock with Cooldown.md" />
         <option value="$PROJECT_DIR$/src/leetcode/middle/graph/MinimumHeightTrees.java" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/310. Minimum Height Trees.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/hard/BurstBalloons.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/middle/number/nthSuperUglyNumber.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/313. Super Ugly Number.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown/312. Burst Balloons.md" />
       </list>
     </option>
   </component>
@@ -231,7 +256,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-74" />
+    <option name="x" value="-75" />
     <option name="width" value="1555" />
     <option name="height" value="1040" />
   </component>
@@ -243,7 +268,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -268,6 +293,13 @@
               <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="hard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="markdown" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -283,7 +315,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="middle" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
+              <item name="number" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
@@ -295,7 +327,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,11 +342,8 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Markdown" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\java\hackerrank\src\leetcode\markdown" />
-      <recent name="D:\java\hackerrank\2019面试" />
-      <recent name="D:\java\hackerrank\面试题" />
-      <recent name="D:\java\hackerrank\src\leetcode" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="leetcode.middle.number" />
@@ -323,8 +352,11 @@
       <recent name="leetcode.hard" />
       <recent name="leetcode.middle.arrays" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java\hackerrank\src\leetcode\markdown" />
+      <recent name="D:\java\hackerrank\2019面试" />
+      <recent name="D:\java\hackerrank\面试题" />
+      <recent name="D:\java\hackerrank\src\leetcode" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -339,12 +371,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinimumHeightTrees">
+  <component name="RunManager" selected="Application.nthSuperUglyNumber">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration name="BestTimetoBuyandSellStockwithCooldown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.hard.BestTimetoBuyandSellStockwithCooldown" />
+      <module name="hackerrank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="BurstBalloons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.hard.BurstBalloons" />
       <module name="hackerrank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -376,17 +419,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="NumMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.middle.arrays.NumMatrix" />
-      <module name="hackerrank" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.middle.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -401,13 +433,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="isAdditiveNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.middle.dp.isAdditiveNumber" />
+    <configuration name="nthSuperUglyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.middle.number.nthSuperUglyNumber" />
       <module name="hackerrank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.middle.dp.*" />
+          <option name="PATTERN" value="leetcode.middle.number.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -521,19 +553,19 @@
       <envs />
     </configuration>
     <list>
-      <item itemvalue="Application.NumMatrix" />
-      <item itemvalue="Application.isAdditiveNumber" />
       <item itemvalue="Application.NumArray" />
       <item itemvalue="Application.BestTimetoBuyandSellStockwithCooldown" />
       <item itemvalue="Application.MinimumHeightTrees" />
+      <item itemvalue="Application.BurstBalloons" />
+      <item itemvalue="Application.nthSuperUglyNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.nthSuperUglyNumber" />
+        <item itemvalue="Application.BurstBalloons" />
         <item itemvalue="Application.MinimumHeightTrees" />
         <item itemvalue="Application.BestTimetoBuyandSellStockwithCooldown" />
         <item itemvalue="Application.NumArray" />
-        <item itemvalue="Application.isAdditiveNumber" />
-        <item itemvalue="Application.NumMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -688,7 +720,9 @@
       <workItem from="1568185081707" duration="1484000" />
       <workItem from="1568202262261" duration="12259000" />
       <workItem from="1568259726263" duration="15025000" />
-      <workItem from="1568337583005" duration="28549000" />
+      <workItem from="1568337583005" duration="29971000" />
+      <workItem from="1568563159673" duration="1286000" />
+      <workItem from="1568613742356" duration="2051000" />
     </task>
     <task id="LOCAL-00001" summary="完成2017年今日头条笔试题">
       <created>1521879163817</created>
@@ -984,11 +1018,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568354507184</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="9.14">
+      <created>1568475670800</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1568475670800</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="695124000" />
+    <option name="totallyTimeSpent" value="699883000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1016,7 +1057,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
-      <window_info active="true" anchor="bottom" id="Debug" order="5" visible="true" weight="0.4800591" />
+      <window_info anchor="bottom" id="Debug" order="5" visible="true" weight="0.4800591" />
       <window_info anchor="bottom" id="TODO" order="8" weight="0.32791728" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.32053176" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
@@ -1027,7 +1068,7 @@
       <window_info anchor="bottom" id="Run" order="4" weight="0.28655836" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32496306" />
       <window_info id="Persistence" order="8" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49888143" visible="true" weight="0.22386059" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49888143" visible="true" weight="0.22386059" />
       <window_info anchor="bottom" id="Analysis" order="15" />
       <window_info anchor="bottom" id="SonarLint" order="0" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -1050,7 +1091,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="搞定网易两两相交，求最多有多少个同时相交" />
     <MESSAGE value="搞定网易最大工资数" />
     <MESSAGE value="两种按照属性排序的方法" />
     <MESSAGE value="错误的理解了题意" />
@@ -1075,7 +1115,8 @@
     <MESSAGE value="9.7" />
     <MESSAGE value="9.8-9.11" />
     <MESSAGE value="9.12" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.12" />
+    <MESSAGE value="9.14" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.14" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1913,6 +1954,30 @@
           <properties />
           <option name="timeStamp" value="421" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/hard/BurstBalloons.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="422" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/hard/BurstBalloons.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="425" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/hard/BurstBalloons.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/middle/number/nthSuperUglyNumber.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="430" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/sort/InsertionSort.java</url>
           <line>87</line>
@@ -1930,7 +1995,7 @@
           <option name="timeStamp" value="301" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="422" />
+      <option name="time" value="431" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1938,49 +2003,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/hard/maxSlidingWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/241. Different Ways to Add Parentheses.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="237">
-            <caret line="24" column="105" selection-start-line="24" selection-start-column="105" selection-end-line="24" selection-end-column="105" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/240. Search a 2D Matrix II.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="397">
-            <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/number/diffWaysToCompute.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/242. Valid Anagram.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -2417,8 +2439,53 @@
     <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/310. Minimum Height Trees.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="66">
+          <first_editor relative-caret-position="-214">
             <caret line="194" column="49" selection-start-line="194" selection-start-column="49" selection-end-line="194" selection-end-column="49" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/middle/number/nthSuperUglyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#1363#1364#0" expanded="true" />
+            <element signature="e#1404#1405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/hard/BurstBalloons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/313. Super Ugly Number.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="15" column="96" selection-start-line="15" selection-start-column="96" selection-end-line="15" selection-end-column="96" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/312. Burst Balloons.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="21" column="79" selection-start-line="21" selection-start-column="79" selection-end-line="21" selection-end-column="79" />
           </first_editor>
           <second_editor />
         </state>

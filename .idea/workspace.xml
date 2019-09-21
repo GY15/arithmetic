@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed342426-bece-4cca-acb1-56b523455639" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/FreqStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown2/331. Verify Preorder Serialization of a Binary Tree.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown2/332. Reconstruct Itinerary.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown2/334. Increasing Triplet Subsequence.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/middle/arrays/findItinerary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/hard/SelfCrossing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/markdown2/335. Self Crossing.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/markdown2/332. Reconstruct Itinerary.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/markdown2/332. Reconstruct Itinerary.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,6 +18,9 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/hackerrank$Mooncake.ic" NAME="Mooncake Coverage Results" MODIFIED="1536819494953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>PAT.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hackerrank$SelfCrossing.ic" NAME="SelfCrossing Coverage Results" MODIFIED="1569074674708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leetcode.hard.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/hackerrank$numSquares.ic" NAME="numSquares Coverage Results" MODIFIED="1567868643405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>leetcode.middle.number.*</FILTER>
@@ -65,47 +66,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="template.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown2/template.md">
+      <file leaf-file-name="335. Self Crossing.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown2/335. Self Crossing.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="4" selection-start-column="4" selection-end-column="4" />
+              <first_editor relative-caret-position="100">
+                <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="334. Increasing Triplet Subsequence.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown2/334. Increasing Triplet Subsequence.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="500">
-                <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="330. Patching Array.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/markdown2/330. Patching Array.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="460">
-                <caret line="23" column="95" selection-start-line="23" selection-start-column="95" selection-end-line="23" selection-end-column="95" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FreqStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/hard/FreqStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -114,10 +82,23 @@
         <entry file="file://$PROJECT_DIR$/src/leetcode/markdown2/332. Reconstruct Itinerary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1162">
-                <caret line="92" column="1" lean-forward="true" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
+              <first_editor relative-caret-position="110">
+                <caret line="66" column="10" lean-forward="true" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SelfCrossing.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/hard/SelfCrossing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="9" />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,7 +106,7 @@
       <file leaf-file-name="findItinerary.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/middle/arrays/findItinerary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
+            <state relative-caret-position="600">
               <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
             </state>
           </provider>
@@ -196,8 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/middle/arrays/gameOfLife.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/hard/MedianFinder.java" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown/295. Find Median from Data Stream.md" />
         <option value="$PROJECT_DIR$/src/leetcode/middle/tree/pathSum.java" />
         <option value="$PROJECT_DIR$/src/leetcode/hard/SerializeandDeserializeBinaryTree.java" />
@@ -245,8 +224,10 @@
         <option value="$PROJECT_DIR$/src/leetcode/markdown2/331. Verify Preorder Serialization of a Binary Tree.md" />
         <option value="$PROJECT_DIR$/src/leetcode/hard/FreqStack.java" />
         <option value="$PROJECT_DIR$/src/leetcode/middle/arrays/findItinerary.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/markdown2/332. Reconstruct Itinerary.md" />
         <option value="$PROJECT_DIR$/src/leetcode/markdown2/334. Increasing Triplet Subsequence.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown2/332. Reconstruct Itinerary.md" />
+        <option value="$PROJECT_DIR$/src/leetcode/hard/SelfCrossing.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/markdown2/335. Self Crossing.md" />
       </list>
     </option>
   </component>
@@ -269,10 +250,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="690" />
-    <option name="width" value="1203" />
-    <option name="height" value="1103" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -282,7 +264,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -306,30 +287,14 @@
               <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="hard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="markdown2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="middle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="middle" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="middle" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -337,6 +302,7 @@
       </pane>
       <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -351,8 +317,12 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Markdown" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\hackerrank\src\leetcode\markdown2" />
       <recent name="D:\java\hackerrank\src\leetcode\markdown" />
+      <recent name="D:\java\hackerrank\2019面试" />
+      <recent name="D:\java\hackerrank\面试题" />
+      <recent name="D:\java\hackerrank\src\leetcode" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="leetcode.middle.number" />
@@ -361,12 +331,8 @@
       <recent name="leetcode.hard" />
       <recent name="leetcode.middle.arrays" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\java\hackerrank\src\leetcode\markdown2" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\java\hackerrank\src\leetcode\markdown" />
-      <recent name="D:\java\hackerrank\2019面试" />
-      <recent name="D:\java\hackerrank\面试题" />
-      <recent name="D:\java\hackerrank\src\leetcode" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -381,23 +347,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.findItinerary">
+  <component name="RunManager" selected="Application.SelfCrossing">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.middle.arrays.CoinChange" />
+    <configuration name="FreqStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.hard.FreqStack" />
       <module name="hackerrank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.middle.arrays.*" />
+          <option name="PATTERN" value="leetcode.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FreqStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.hard.FreqStack" />
+    <configuration name="SelfCrossing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.hard.SelfCrossing" />
       <module name="hackerrank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -563,19 +529,19 @@
       <envs />
     </configuration>
     <list>
-      <item itemvalue="Application.CoinChange" />
       <item itemvalue="Application.longestIncreasingPath" />
       <item itemvalue="Application.minPatches" />
       <item itemvalue="Application.FreqStack" />
       <item itemvalue="Application.findItinerary" />
+      <item itemvalue="Application.SelfCrossing" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SelfCrossing" />
         <item itemvalue="Application.findItinerary" />
         <item itemvalue="Application.FreqStack" />
         <item itemvalue="Application.minPatches" />
         <item itemvalue="Application.longestIncreasingPath" />
-        <item itemvalue="Application.CoinChange" />
       </list>
     </recent_temporary>
   </component>
@@ -739,6 +705,7 @@
       <workItem from="1568944067467" duration="570000" />
       <workItem from="1568944924812" duration="1116000" />
       <workItem from="1568950126688" duration="11796000" />
+      <workItem from="1569051558664" duration="10344000" />
     </task>
     <task id="LOCAL-00001" summary="完成2017年今日头条笔试题">
       <created>1521879163817</created>
@@ -1066,7 +1033,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="775185000" />
+    <option name="totallyTimeSpent" value="785529000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1078,7 +1045,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="552" y="0" width="962" height="882" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -1094,7 +1061,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
-      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.49932975" visible="true" weight="0.60055476" />
+      <window_info active="true" anchor="bottom" id="Debug" order="5" sideWeight="0.49932975" visible="true" weight="0.5672083" />
       <window_info anchor="bottom" id="TODO" order="8" weight="0.32791728" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.32053176" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
@@ -1103,16 +1070,16 @@
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49932975" weight="0.3293944" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.28655836" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.32908848" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32496306" />
       <window_info id="Persistence" order="8" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49888143" visible="true" weight="0.22234513" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49888143" visible="true" weight="0.1347185" />
       <window_info anchor="bottom" id="Analysis" order="15" />
       <window_info anchor="bottom" id="SonarLint" order="0" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="6" sideWeight="0.50111854" side_tool="true" weight="0.25201073" />
       <window_info anchor="right" id="Properties" order="5" />
       <window_info id="Nl-Palette" order="2" />
-      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.32908848" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -2159,6 +2126,18 @@
           <properties />
           <option name="timeStamp" value="494" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/hard/SelfCrossing.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="495" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/hard/SelfCrossing.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="497" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/sort/InsertionSort.java</url>
           <line>87</line>
@@ -2176,7 +2155,7 @@
           <option name="timeStamp" value="301" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="495" />
+      <option name="time" value="498" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -2184,22 +2163,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/160. Intersection of Two Linked Lists.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/165. Compare Version Numbers.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1049" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/markdown/153. Find Minimum in Rotated Sorted Array.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -2617,25 +2580,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/hard/FreqStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
+        <state relative-caret-position="760">
           <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/middle/arrays/findItinerary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
+        <state relative-caret-position="600">
           <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown2/332. Reconstruct Itinerary.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1162">
-            <caret line="92" column="1" lean-forward="true" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -2652,8 +2605,39 @@
     <entry file="file://$PROJECT_DIR$/src/leetcode/markdown2/334. Increasing Triplet Subsequence.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="500">
-            <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <first_editor relative-caret-position="400">
+            <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown2/332. Reconstruct Itinerary.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="110">
+            <caret line="66" column="10" lean-forward="true" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/hard/SelfCrossing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/markdown2/335. Self Crossing.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="100">
+            <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>

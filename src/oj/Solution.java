@@ -4,7 +4,8 @@ import java.util.*;
 
 public class Solution {
     public static void main(String[] args) {
-
+        long n = new Solution().GCD(20,15);
+        long m = new Solution().GCD(15,20);
         new Solution().fraction(new int[]{2,1,-1,1});
     }
 

@@ -10,7 +10,8 @@ public class Main {
         if (n <= 1) {
             return 0;
         }
-        Map<Integer, Integer> indexMap = new HashMap<>();
+        TreeMap<Integer, Integer> indexMap = new TreeMap<>();
+
         for (int i = 0; i < n; i++) {
             indexMap.put(nums[i], i);
         }

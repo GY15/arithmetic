@@ -35,7 +35,7 @@ public class QueueAndStack {
         // Convert input String to an array of characters:
         char[] s = input.toCharArray();
 
-        // Create a Solution object:
+        // Create a Tanchishe object:
         QueueAndStack p = new QueueAndStack();
 
         // Enqueue/Push all chars to their respective data structures:

@@ -4,10 +4,6 @@ import java.util.Objects;
 import java.util.TreeSet;
 
 public class kthSmallest {
-    public static void main(String[] args) {
-        String s  ="";
-
-    }
     public int kthSmallest(int[][] matrix, int k) {
         TreeSet<Tuple> treeSet = new TreeSet<>();
         treeSet.add(new Tuple(0,0,matrix[0][0]));
